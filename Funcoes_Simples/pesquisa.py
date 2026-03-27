@@ -18,4 +18,4 @@ print(f"Pesquisando seu nome na lista")
 if pesquisa(L, nome) == -1:
     print(f"Acesso negado! Seu nome não está na lista.")
 else:
-    print(f"Acesso autorizado! Seu nome está na lista: {pesquisa(L, nome)}")
+    print(f"Acesso autorizado! Bem vindo, {nome}!")
